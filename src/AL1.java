@@ -24,7 +24,7 @@ class AL1{
 
   for(String obj:list) {
 	  System.out.println(obj);
-  
+  //ghjfcgh
    
  
   // Ab First Commit
